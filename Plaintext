@@ -10,6 +10,20 @@ Here are the deployment and repository assets for your review:
 Frontend - https://github.com/rajesh36sarkar/Drishyaa.git 
 Backend - https://github.com/rajesh36sarkar/Drishyaa-backend.git
 
+Frontend .env : [ VITE_API_URL=https://drishya-backend.onrender.com/api ]
+
+Backend .env :
+[
+PORT=5000
+MONGO_URI=mongodb+srv://drishya_user:DrishyaSecure2026@cluster0.jmqr8xi.mongodb.net/drishya?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=c481dff752e5809f37047fd8d1c71c0656acc2cd4089ee759ffa3e490cbbf111
+FRONTEND_URL=https://drishyaa.netlify.app/
+CLOUDINARY_CLOUD_NAME=drishyaa
+CLOUDINARY_API_KEY=564828756538983
+CLOUDINARY_API_SECRET=RUnfvJ59WTj57tDNUUlpqCCZLvU
+CLOUDINARY_URL=cloudinary://564828756538983:RUnfvJ59WTj57tDNUUlpqCCZLvU@drishyaa
+]
+
 Key Technical Highlights Implemented:
 - Full CRUD capabilities for User Channels, Media Uploads, and Single-Level Comment boards.
 - Secure token-based user authentication parsing with automated routing guardrails.
