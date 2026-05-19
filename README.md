@@ -4,8 +4,15 @@
 
 The project is structured as a monorepo containing decoupled client and server environments, prioritizing clean code organization, security guardrails, and optimal production performance.
 
-**LIVE PREVIEW LINK** - https://drishyaa-tv.vercel.app/  [ Frontend Deploy to Vercel ]
-**BACKEND Live Link** - https://drishya-backend.onrender.com/ [ Backend Deploy to Render ]
+# FRONT-END [ Deploying from GitHub to Vercel ]
+
+**GITHUB LINK** - https://github.com/rajesh36sarkar/Drishyaa.git
+**LIVE PREVIEW** - https://drishyaa-tv.vercel.app/  
+
+# FRONT-END [ Deploying from GitHub to Render ]
+
+**GITHUB LINK** - https://github.com/rajesh36sarkar/Drishyaa-backend.git
+**Live Link** - https://drishya-backend.onrender.com/
 
 
 ## 📂 System Project File Tree Mapping
